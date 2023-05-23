@@ -1,7 +1,7 @@
 # Testes-BDD-TDD
 # API Example
 
-Este é um projeto Java de exemplo que demonstra o uso de testes TDD e BDD com o Cucumber. Ele implementa uma API simples para realizar a adição de dois números.
+Este é um projeto Java de exemplo que demonstra o uso de testes TDD e BDD com o Cucumber.
 
 ## Configuração do ambiente
 
